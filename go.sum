@@ -1,0 +1,6 @@
+github.com/function-cafe/go-golang v0.0.0-20221211201049-26213aff5246 h1:xOugI/HDfVVVB3K6k2tHzF+kWakS1Au+kvOg1rwLG5U=
+github.com/function-cafe/go-golang v0.0.0-20221211201049-26213aff5246/go.mod h1:FLvPEo9cdk8nUuBkK1WEGZc2kQCTqQ+Xh5gUqgyWD5s=
+github.com/schema-cafe/go-types v0.0.0-20221128165804-3a87346b6c0e h1:86V8ilovEih/hmlwckrYi0t9WmJxMaqyd5HtVL/Mec0=
+github.com/schema-cafe/go-types v0.0.0-20221128165804-3a87346b6c0e/go.mod h1:XFwldZ4r7y3MhIkNklHweEgabaB7uR5LPp2dVU19B4U=
+lib.dev/libdev v0.0.0-20230105172216-80c5dd064337 h1:4wH6oHIYxMh4GJtrTxUAOJCdXcACv828Wevtd6fdw04=
+lib.dev/libdev v0.0.0-20230105172216-80c5dd064337/go.mod h1:Uuk4tsUNBzpumXswUZPHq5CpB+mm9azqPBGSBwyU8+c=

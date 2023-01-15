@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/webmachine-dev/lib-dev/pkg/libdev"
+	"lib.dev/libdev"
 )
 
 func main() {
